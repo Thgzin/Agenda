@@ -1,0 +1,27 @@
+.error {
+  border: 2px solid red;
+}
+
+.good{
+  border:2px solid rgb(15, 225, 64);
+}
+
+#errorEmail{
+  color: red;
+}
+
+#errorPassword{
+  color: red;
+}
+
+#errorLoginEmail{
+  color: red;
+}
+
+#errorLoginPassword{
+  color: red;
+}
+
+#nameError{
+  color: red;
+}
